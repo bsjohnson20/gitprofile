@@ -6,15 +6,15 @@
   <h4 align="center">Easy to use automatic portfolio builder for every GitHub user!</h4>
 
   <p align="center">
-    <a href="https://codeclimate.com/github/arifszn/gitprofile/maintainability"><img src="https://api.codeclimate.com/v1/badges/c60f42d7d0b61bd33e98/maintainability" /></a>
-    <a href="https://github.com/arifszn/gitprofile/actions/workflows/deploy.yml"><img src="https://github.com/arifszn/gitprofile/actions/workflows/deploy.yml/badge.svg" /></a>
-    <a href="https://github.com/arifszn/gitprofile/issues"><img src="https://img.shields.io/github/issues/arifszn/gitprofile"/></a>
-    <a href="https://github.com/arifszn/gitprofile/stargazers"><img src="https://img.shields.io/github/stars/arifszn/gitprofile"/></a>
-    <a href="https://github.com/arifszn/gitprofile/network/members"><img src="https://img.shields.io/github/forks/arifszn/gitprofile"/></a>
-    <a href="https://github.com/arifszn/gitprofile/commits/main"><img src="https://img.shields.io/github/last-commit/arifszn/gitprofile/main"/></a>
-    <a href="https://github.com/arifszn/gitprofile/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"/></a>
-    <a href="https://github.com/arifszn/gitprofile/blob/main/LICENSE"><img src="https://img.shields.io/github/license/arifszn/gitprofile"/></a>
-    <a href="https://idx.google.com/import?url=https%3A%2F%2Fgithub.com%2Farifszn%2Fgitprofile"><picture>
+    <a href="https://codeclimate.com/github/bsjohnson20/gitprofile/maintainability"><img src="https://api.codeclimate.com/v1/badges/c60f42d7d0b61bd33e98/maintainability" /></a>
+    <a href="https://github.com/bsjohnson20/gitprofile/actions/workflows/deploy.yml"><img src="https://github.com/bsjohnson20/gitprofile/actions/workflows/deploy.yml/badge.svg" /></a>
+    <a href="https://github.com/bsjohnson20/gitprofile/issues"><img src="https://img.shields.io/github/issues/bsjohnson20/gitprofile"/></a>
+    <a href="https://github.com/bsjohnson20/gitprofile/stargazers"><img src="https://img.shields.io/github/stars/bsjohnson20/gitprofile"/></a>
+    <a href="https://github.com/bsjohnson20/gitprofile/network/members"><img src="https://img.shields.io/github/forks/bsjohnson20/gitprofile"/></a>
+    <a href="https://github.com/bsjohnson20/gitprofile/commits/main"><img src="https://img.shields.io/github/last-commit/bsjohnson20/gitprofile/main"/></a>
+    <a href="https://github.com/bsjohnson20/gitprofile/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"/></a>
+    <a href="https://github.com/bsjohnson20/gitprofile/blob/main/LICENSE"><img src="https://img.shields.io/github/license/bsjohnson20/gitprofile"/></a>
+    <a href="https://idx.google.com/import?url=https%3A%2F%2Fgithub.com%2Fbsjohnson20%2Fgitprofile"><picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.idx.dev/btn/open_dark_20.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://cdn.idx.dev/btn/open_light_20.svg">
         <img height="20" alt="Open in IDX" src="https://cdn.idx.dev/btn/open_purple_20.svg">
@@ -22,20 +22,20 @@
   </p>
 
   <p align="center">
-    <a href="https://arifszn.github.io/gitprofile">View Demo</a>
+    <a href="https://bsjohnson20.github.io/gitprofile">View Demo</a>
     ·
-    <a href="https://github.com/arifszn/gitprofile/issues">Report Bug</a>
+    <a href="https://github.com/bsjohnson20/gitprofile/issues">Report Bug</a>
     ·
-    <a href="https://github.com/arifszn/gitprofile/discussions">Request Feature</a>
+    <a href="https://github.com/bsjohnson20/gitprofile/discussions">Request Feature</a>
   </p>
 </p>
 
 <p align="center">
-  <a href="https://arifszn.github.io/gitprofile">
-    <img src="https://github.com/arifszn/gitprofile/assets/45073703/eb6c38a4-ac92-4006-869b-e4e24f6f5cf6" alt="Preview" width="60%"/>
+  <a href="https://bsjohnson20.github.io/gitprofile">
+    <img src="https://github.com/bsjohnson20/gitprofile/assets/45073703/eb6c38a4-ac92-4006-869b-e4e24f6f5cf6" alt="Preview" width="60%"/>
   </a>
   <br/>
-  <a href="#arifszn"><img src="https://github.com/arifszn/gitprofile/assets/45073703/4d2ccd45-e566-4743-bf61-cadc03ece54c" width="50%" alt="Shadow"/></a>
+  <a href="#bsjohnson20"><img src="https://github.com/bsjohnson20/gitprofile/assets/45073703/4d2ccd45-e566-4743-bf61-cadc03ece54c" width="50%" alt="Shadow"/></a>
 </p>
 
 **GitProfile** is a powerful portfolio builder that allows you to create a stunning and personalized portfolio site in minutes, even if you have no coding experience. Simply provide your GitHub username, and GitProfile will automatically generate a portfolio. Best of all, you can easily deploy your portfolio to GitHub Pages with just a few clicks, making it accessible to the world in no time.
@@ -58,10 +58,10 @@
 ✓ [Publication Section](#publications)  
 ✓ [Blog Posts Section](#blog-posts)
 
-To view a live example, **[click here](https://arifszn.github.io/gitprofile)**.
+To view a live example, **[click here](https://bsjohnson20.github.io/gitprofile)**.
 
 <p align="center">
-  <img src="https://github.com/arifszn/gitprofile/assets/45073703/406e8368-415a-42ef-89c5-d43cc8bbeb19" alt="Themes">
+  <img src="https://github.com/bsjohnson20/gitprofile/assets/45073703/406e8368-415a-42ef-89c5-d43cc8bbeb19" alt="Themes">
 </p>
 
 ## 🛠 Installation & Setup
@@ -75,13 +75,13 @@ There are two ways to use **GitProfile**. Use any.
 
 These instructions will get you a copy of the project and deploy your portfolio online using GitHub Pages!
 
-- **Fork repo:** Click [here](https://github.com/arifszn/gitprofile/fork) to fork the repo so you have your own project to customize. A "fork" is a copy of a repository.
+- **Fork repo:** Click [here](https://github.com/bsjohnson20/gitprofile/fork) to fork the repo so you have your own project to customize. A "fork" is a copy of a repository.
 - **Rename repo:**
   - If you want to host your portfolio at `https://<USERNAME>.github.io`, rename your forked repository to `username.github.io` in GitHub, where `username` is your GitHub username (or organization name).
   - If you want to host your portfolio at `https://<USERNAME>.github.io/<REPO_NAME>` (e.g. `https://<USERNAME>.github.io/portfolio`), rename your forked repository to `<REPO_NAME>` (e.g. `portfolio`) in GitHub.
 - **Enable workflows:** Go to your repo's **Actions** tab and enable workflows.
 
-  ![Workflows](https://github.com/arifszn/gitprofile/assets/45073703/7e82f7d4-900c-4cb9-83f9-bcaa1ca2b910)
+  ![Workflows](https://github.com/bsjohnson20/gitprofile/assets/45073703/7e82f7d4-900c-4cb9-83f9-bcaa1ca2b910)
 
 - **Base Value:** Open `gitprofile.config.ts`, and change `base`'s value.
 
@@ -97,7 +97,7 @@ These instructions will get you a copy of the project and deploy your portfolio 
   }
   ```
 
-- **Commit the changes:** Now commit to your **main** branch with your changes. Wait a few minutes so that the CI/CD pipeline can publish your website to GitHub Pages. You can check the progress in the [Actions](https://github.com/arifszn/gitprofile/actions) tab.
+- **Commit the changes:** Now commit to your **main** branch with your changes. Wait a few minutes so that the CI/CD pipeline can publish your website to GitHub Pages. You can check the progress in the [Actions](https://github.com/bsjohnson20/gitprofile/actions) tab.
 
 Your portfolio website will be live shortly. Any time you commit a change to the **main** branch, the website will be automatically updated. If you face any issue viewing the website, double-check the `base` value in the `gitprofile.config.ts` file. Also, check if **Source** is set to **GitHub Actions** in **Settings** ➜ **Pages** ➜ **Build and deployment**.
 
@@ -116,14 +116,14 @@ As this is a Vite project, you can also host your website to Netlify, Vercel, He
 }
 ```
 
-[**Not working?**](https://github.com/arifszn/gitprofile/discussions/548)
+[**Not working?**](https://github.com/bsjohnson20/gitprofile/discussions/548)
 
 ### Setting up locally
 
 - Clone the project and change directory.
 
   ```shell
-  git clone https://github.com/arifszn/gitprofile.git
+  git clone https://github.com/bsjohnson20/gitprofile.git
   cd gitprofile
   ```
 
@@ -141,7 +141,7 @@ As this is a Vite project, you can also host your website to Netlify, Vercel, He
 
 - Finally, visit `http://localhost:5173/gitprofile/` from your browser.
 
-> Alternatively, you can set up and run the project using Docker with **[Vail](https://github.com/arifszn/vail)**, a powerful tool for local development of JavaScript/TypeScript Apps.
+> Alternatively, you can set up and run the project using Docker with **[Vail](https://github.com/bsjohnson20/vail)**, a powerful tool for local development of JavaScript/TypeScript Apps.
 
 ## 🎨 Customization
 
@@ -154,12 +154,12 @@ You can leave most of the sections empty if you don't want to display them on yo
 
 const CONFIG = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (This is the only required config)
+    username: 'bsjohnson20', // Your GitHub org/user name. (This is the only required config)
   },
   /**
-   * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
+   * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/bsjohnson20/bsjohnson20.github.io, set base to '/'.
    * If you are deploying to https://<USERNAME>.github.io/<REPO_NAME>/,
-   * for example your repository is at https://github.com/arifszn/portfolio, then set base to '/portfolio/'.
+   * for example your repository is at https://github.com/bsjohnson20/portfolio, then set base to '/portfolio/'.
    */
   base: '/gitprofile/',
   projects: {
@@ -172,12 +172,12 @@ const CONFIG = {
         limit: 8, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
-          projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+          projects: [], // These projects will not be displayed. example: ['bsjohnson20/my-project1', 'bsjohnson20/my-project2']
         },
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['bsjohnson20/gitprofile', 'bsjohnson20/pandora'], // List of repository names to display. example: ['bsjohnson20/my-project1', 'bsjohnson20/my-project2']
       },
     },
     external: {
@@ -211,7 +211,7 @@ const CONFIG = {
   social: {
     linkedin: 'ariful-alam',
     x: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    mastodon: 'bsjohnson20@mastodon.social',
     researchGate: '',
     facebook: '',
     instagram: '',
@@ -221,12 +221,12 @@ const CONFIG = {
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: 'bsjohnson20',
+    dev: 'bsjohnson20',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+    website: 'https://www.bsjohnson20.com',
     phone: '',
     email: 'arifulalamszn@gmail.com',
   },
@@ -311,7 +311,7 @@ const CONFIG = {
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    username: 'bsjohnson20', // to hide blog section, keep it empty
     limit: 3, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
@@ -387,7 +387,7 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      class="text-primary" href="https://github.com/bsjohnson20/gitprofile"
       target="_blank"
       rel="noreferrer"
     >GitProfile</a> and ❤️`,
@@ -416,7 +416,7 @@ const CONFIG = {
 ```
 
 <p align="center">
-  <img src="https://github.com/arifszn/gitprofile/assets/45073703/91a2d9e6-67e5-47b4-9752-1881ac0f907f" alt="Theme Dropdown" width="50%">
+  <img src="https://github.com/bsjohnson20/gitprofile/assets/45073703/91a2d9e6-67e5-47b4-9752-1881ac0f907f" alt="Theme Dropdown" width="50%">
 </p>
 
 You can create your own custom theme by modifying these values. Theme `procyon` will have the custom styles.
@@ -500,7 +500,7 @@ const CONFIG = {
 
 GitProfile is PWA enabled. The site can be installed as a Progressive Web App. To turn it off, set `enablePWA` to `false`.
 
-![PWA](https://github.com/arifszn/gitprofile/assets/45073703/9dc7cc5c-4262-4445-a7a5-1e3566ef43fa)
+![PWA](https://github.com/bsjohnson20/gitprofile/assets/45073703/9dc7cc5c-4262-4445-a7a5-1e3566ef43fa)
 
 ### Avatar and Bio
 
@@ -517,7 +517,7 @@ const CONFIG = {
   social: {
     linkedin: 'ariful-alam',
     x: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    mastodon: 'bsjohnson20@mastodon.social',
     researchGate: '',
     facebook: '',
     instagram: '',
@@ -651,12 +651,12 @@ const CONFIG = {
         limit: 8, // How many projects to display.
         exclude: {
           forks: false, // Forked projects will not be displayed if set to true.
-          projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+          projects: [], // These projects will not be displayed. example: ['bsjohnson20/my-project1', 'bsjohnson20/my-project2']
         },
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['bsjohnson20/gitprofile', 'bsjohnson20/pandora'], // List of repository names to display. example: ['bsjohnson20/my-project1', 'bsjohnson20/my-project2']
       },
     },
   },
@@ -733,27 +733,27 @@ const CONFIG = {
   // ...
   blog: {
     source: 'dev',
-    username: 'arifszn',
+    username: 'bsjohnson20',
     limit: 5,
   },
 };
 ```
 
-![Blog](https://github.com/arifszn/gitprofile/assets/45073703/410124f2-a3c2-48f1-8ec8-0c6fae74ae3d)
+![Blog](https://github.com/bsjohnson20/gitprofile/assets/45073703/410124f2-a3c2-48f1-8ec8-0c6fae74ae3d)
 
-The posts are fetched by [blog.js](https://github.com/arifszn/blog.js).
+The posts are fetched by [blog.js](https://github.com/bsjohnson20/blog.js).
 
 ## 💖 Support
 
 <p>You can show your support by starring this project. ★</p>
-<a href="https://github.com/arifszn/gitprofile/stargazers">
-  <img src="https://img.shields.io/github/stars/arifszn/gitprofile?style=social" alt="Github Star">
+<a href="https://github.com/bsjohnson20/gitprofile/stargazers">
+  <img src="https://img.shields.io/github/stars/bsjohnson20/gitprofile?style=social" alt="Github Star">
 </a>
 
 ## 💡 Contribute
 
-To contribute, see the [Contributing guide](https://github.com/arifszn/gitprofile/blob/main/CONTRIBUTING.md).
+To contribute, see the [Contributing guide](https://github.com/bsjohnson20/gitprofile/blob/main/CONTRIBUTING.md).
 
 ## 📄 License
 
-[MIT](https://github.com/arifszn/gitprofile/blob/main/LICENSE)
+[MIT](https://github.com/bsjohnson20/gitprofile/blob/main/LICENSE)
